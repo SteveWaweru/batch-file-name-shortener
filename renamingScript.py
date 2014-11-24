@@ -23,6 +23,7 @@ def change_file_name(path_to_file, string_to_remove):
 # TODO: Option for user to enter input than the current manual way
 # TODO: File path to be compatible with all platforms. os.path?
 
+# REMEMBER TO ADD THE SLASH AT THE END OF THE FILE PATH!!!! ie: /path/to/file/
 path_to_file = "/home/user/path/to/file/"
 string_to_remove = "string to remove"
 # Excecute function
